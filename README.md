@@ -2,7 +2,7 @@
 
 ## Datos Personales
 
-![Soy este]()
+![Soy este](/Perfil.jpeg)
 
 - Edad: 27 Años
 - Soltero
